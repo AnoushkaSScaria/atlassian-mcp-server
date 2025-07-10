@@ -4,11 +4,23 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+<<<<<<< HEAD
+=======
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+>>>>>>> 31fd4a8afde5492d35184533818f61ea42a4fca8
 # Build output
 dist/
 build/
 out/
 
+<<<<<<< HEAD
 # Environment files
 .env
 .env.local
@@ -18,6 +30,8 @@ out/
 .DS_Store
 Thumbs.db
 
+=======
+>>>>>>> 31fd4a8afde5492d35184533818f61ea42a4fca8
 # IDE files
 .vscode/
 .idea/
@@ -28,8 +42,15 @@ Thumbs.db
 
 # Coverage reports
 coverage/
+<<<<<<< HEAD
 *.lcov
 
 # Misc
 *.log
 *.tgz
+=======
+
+# Misc
+*.local
+*.cache
+>>>>>>> 31fd4a8afde5492d35184533818f61ea42a4fca8

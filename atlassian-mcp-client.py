@@ -10,10 +10,6 @@ Key Features:
 - Integrates with AWS Bedrock agents
 - Handles tool calls and return control events
 - Generates test plans from Jira data
-- Creates Confluence pages with generated content
-
-Usage:
-    python client.py <path_to_server_script>
 
 Environment Variables Required:
     - AWS_PROFILE
